@@ -31,6 +31,18 @@ I selected **FirstCry** — an e-commerce platform for baby and kids' products �
 5. **Modern UI Trends** – Rounded corners, flat icons, and balanced spacing.
 
 ---
+## 🔗 Live Prototype
+You can explore the VR experience here:  
+https://www.figma.com/design/YFXOTgUqGwn9lAB4eqNRE4/Untitled?node-id=198-30&t=qZ7zAs2mVQGI3Yk6-1
+
+---
+
+## 📸 Screenshots
+![Screenshot 1](https://github.com/deepika1163/codetech_internship/blob/main/task-4/vrimg1.png?raw=true)
+![Screenshot 2](https://github.com/deepika1163/codetech_internship/blob/main/task-4/vrimg2.png?raw=true)
+![Screenshot 3](https://github.com/deepika1163/codetech_internship/blob/main/task-4/vrimg3.png?raw=true)
+
+---
 
 ## 🛠 Tools Used
 - **Figma** – For designing and prototyping the redesigned landing page.
@@ -38,5 +50,5 @@ I selected **FirstCry** — an e-commerce platform for baby and kids' products �
 
 ---
 
-## 📂 Project Structure
+
 
