@@ -1,53 +1,62 @@
-🛒 Amazon App Redesign – Detailed Explanation
-🔍 Pain Points Identified (Before)
- Cluttered Home Screen – Too many sections and promotions, making it overwhelming for first-time users.
+# 🛒 Amazon App Redesign – Task 3 (CodTech Internship)
 
- Hidden Navigation – The hamburger menu hides key features like “Orders” and “Account”.
+## 🔍Pain Points Identified (Before)
+1.  **Cluttered Home Screen** – Too many sections and promotions, making it overwhelming for first-time users.  
+2.  **Hidden Navigation** – The hamburger menu hides key features like “Orders” and “Account”.  
+3.  **Visual Overload** – Multiple font styles, sizes, and colors reduce visual hierarchy.  
+4.  **Limited Personalization** – Recommendations are scattered and not prominently displayed.  
+5.  **Inefficient Search Bar** – Long and not visually distinct from other elements.  
 
- Visual Overload – Multiple font styles, sizes, and colors reduce visual hierarchy.
+---
 
- Limited Personalization – Recommendations are scattered and not prominently displayed.
+## ✨ Redesign Improvements (After)
 
- Inefficient Search Bar – Long and not visually distinct from other elements.
+### 🖥 1. Simplified Home Screen Layout
+- Reduced visible sections for a cleaner look.  
+- Focused on **personalized recommendations** at the top (“Our top pick for you”).  
+- Removed unnecessary banners for better attention on products.
 
-✨ Redesign Improvements (After)
-🖥 1. Simplified Home Screen Layout
-Reduced visible sections for a cleaner look.
+###  2. Clearer Navigation
+- Added **quick-access menu** for “Orders” and “In-store code”.  
+- Organized the side menu with **clear categories**.
 
-Focused on personalized recommendations at the top (“Our top pick for you”).
+###  3. Consistent Visual Design
+- Unified typography size and style.  
+- Increased white space for readability.  
+- Used modern flat icons for cleaner aesthetics.
 
-Removed unnecessary banners for better attention on products.
+###  4. Enhanced Personalization
+- Highlighted one main product suggestion based on user preferences.  
+- Added a **discount badge** for better visibility.
 
- 2. Clearer Navigation
-Added quick-access menu for “Orders” and “In-store code”.
+###  5. Search Optimization
+- Made the search bar more prominent with **distinct background color** and padding.  
 
-Organized the side menu with clear categories.
+---
 
- 3. Consistent Visual Design
-Unified typography size and style.
+## 📈 Benefits of the Redesign
+-  **Faster Navigation** → Quick access to top features.  
+-  **Better User Focus** → Products, not ads, take center stage.  
+-  **Improved Aesthetics** → Modern, minimal, and consistent UI.  
+-  **Increased Engagement** → Personalized suggestions encourage clicks.  
+-  **Reduced Cognitive Load** → Easier decision-making with a clean layout.  
 
-Increased white space for readability.
+---
 
-Used modern flat icons for cleaner aesthetics.
+## 📷 Before & After
+**Before:** Cluttered UI, hidden menu, scattered recommendations.  
+**After:** Clean UI, visible quick-access options, focused personalization.
 
- 4. Enhanced Personalization
-Highlighted one main product suggestion based on user preferences.
+---
 
-Added a discount badge for better visibility.
+## 🔗 Prototype Link
+[▶ **View the Interactive Figma Prototype**](https://www.figma.com/proto/YFXOTgUqGwn9lAB4eqNRE4/Untitled?node-id=248-239&t=aESdxpmBx3SbIaCT-1)  
 
- 5. Search Optimization
-Made the search bar more prominent with distinct background color and padding.
+---
 
-📈 Benefits of the Redesign
- Faster Navigation → Quick access to top features.
+## 🛠 Tools Used
+- **Figma** – UI/UX redesign and prototyping  
+- **Amazon App** – Reference for original UI  
+- **Icons & Emojis** – For visual clarity in documentation  
 
- Better User Focus → Products, not ads, take center stage.
-
- Improved Aesthetics → Modern, minimal, and consistent UI.
-
- Increased Engagement → Personalized suggestions encourage clicks.
-
- Reduced Cognitive Load → Easier decision-making with a clean layout.
-
-🔗 Prototype Link
-▶ View the Interactive Figma Prototype
+---
