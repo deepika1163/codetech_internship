@@ -50,7 +50,7 @@
 ---
 
 ## 📸 Screenshots
-![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task-4/vrimg1.png?raw=true)
+![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task3/Screenshot%202025-08-10%20194805.png?raw=true)
 
 ## 🔗 Prototype Link
 [▶ **View the Interactive Figma Prototype**](https://www.figma.com/proto/YFXOTgUqGwn9lAB4eqNRE4/Untitled?node-id=248-239&t=aESdxpmBx3SbIaCT-1)  
