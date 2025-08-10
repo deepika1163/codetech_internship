@@ -1,4 +1,4 @@
-# 🎮 VR Interface Design – Rick and Morty Experience
+# 🎮 VR Interface Design 
 
 This is my AR/VR interface design created as part of my internship task.  
 The project showcases an immersive **VR environment** featuring the "Rick and Morty" universe.
@@ -13,6 +13,9 @@ You can explore the VR experience here:
 
 ## 📸 Screenshots
 ![Screenshot 1](screenshot1.png)
+
+![Uploading vrimg1.png…]()
+
 ![Screenshot 2](screenshot2.png)
 ![Screenshot 3](screenshot3.png)
 
