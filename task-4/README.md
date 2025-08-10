@@ -13,9 +13,6 @@ You can explore the VR experience here:
 
 ## 📸 Screenshots
 ![Screenshot 1](screenshot1.png)
-
-![Uploading vrimg1.png…]()
-
 ![Screenshot 2](screenshot2.png)
 ![Screenshot 3](screenshot3.png)
 
