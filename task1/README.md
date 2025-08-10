@@ -43,8 +43,8 @@ https://github.com/deepika1163/codetech_internship/blob/main/task1/Screenshot%20
 
 ## 🔗 Live Link
 You can explore here:  
-https://www.figma.com/design/YFXOTgUqGwn9lAB4eqNRE4/Untitled?node-id=198-30&t=qZ7zAs2mVQGI3Yk6-1
 https://github.com/deepika1163/codetech_internship/blob/main/task1/Desktop%20-%201.jpg?raw=true
+https://www.figma.com/design/YFXOTgUqGwn9lAB4eqNRE4/Untitled?node-id=198-30&t=qZ7zAs2mVQGI3Yk6-1
 
 ---
 ## 🛠 Tools Used
