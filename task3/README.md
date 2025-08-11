@@ -30,7 +30,10 @@
 - Added a **discount badge** for better visibility.
 
 ###  5. Search Optimization
-- Made the search bar more prominent with **distinct background color** and padding.  
+- Made the search bar more prominent with **distinct background color** and padding.
+
+  ## 📸 Mockups
+![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task3/Screenshot%202025-08-10%20194805.png?raw=true)
 
 ---
 
@@ -49,7 +52,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Mockups
 ![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task3/Screenshot%202025-08-10%20194805.png?raw=true)
 
 ## 🔗 Prototype Link
