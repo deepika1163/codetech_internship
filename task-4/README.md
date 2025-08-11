@@ -12,7 +12,7 @@ You can explore the VR experience here:
 ---
 
 ## 📸 Prototype
-![Screenshot 1](https://github.com/deepika1163/codetech_internship/blob/main/task-4/vrimg1.png?raw=true)
+![Screenshot 1](https://github.com/deepika1163/codetech_internship/blob/main/task-4/Screenshot%202025-08-11%20125244.png?raw=true)
 
 ---
 
