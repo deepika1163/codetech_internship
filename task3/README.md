@@ -32,8 +32,8 @@
 ###  5. Search Optimization
 - Made the search bar more prominent with **distinct background color** and padding.
 
-  ## 📸 Mockups
-![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task3/Screenshot%202025-08-10%20194805.png?raw=true)
+  ## 📸 After
+![Mockups](https://github.com/deepika1163/codetech_internship/blob/main/task3/amzon_after.png?raw=true)
 
 ---
 
