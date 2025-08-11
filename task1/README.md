@@ -1,4 +1,4 @@
-# FirstCry Landing Page Redesign
+# FirstCry Landing Page Redesign Task 1 (CodTech Internship)
 
 ## 📌 Overview
 This project is part of my **CODTECH Internship** task, where I was required to take an existing website landing page and redesign it to improve **usability** and **aesthetics**.  
