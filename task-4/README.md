@@ -1,4 +1,4 @@
-# 🎮 VR Interface Design 
+# 🎮 VR Interface Design Task 4 (CodTech Internship)
 
 This is my AR/VR interface design created as part of my internship task.  
 The project showcases an immersive **VR environment** featuring the "Rick and Morty" universe.
