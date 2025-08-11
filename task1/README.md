@@ -37,6 +37,9 @@ I selected **FirstCry** — an e-commerce platform for baby and kids' products �
 https://github.com/deepika1163/codetech_internship/blob/main/task1/Screenshot%202025-08-10%20172605.png?raw=true
 )
 ![Screenshot 2](https://github.com/deepika1163/codetech_internship/blob/main/task1/Screenshot%202025-08-10%20171257.png?raw=true)
+
+---
+## 📸 Mockups
 ![Screenshot 3](https://github.com/deepika1163/codetech_internship/blob/main/task1/Task1.jpg?raw=true)
 
 ---
